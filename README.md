@@ -1,7 +1,9 @@
-# Be The Boss in Python 
 
-[<img src="https://deepnote.com/buttons/launch-in-deepnote.svg">](https://deepnote.com/launch?url=https%3A%2F%2Fgithub.com%2Fafizs%2Fbe-theboss-in-python)
+<h1 align="center"> Be The Boss in Python </h1>
+<p align="center">Contains all the Python content I share on Twitter</p>
 
-✅ This repository contains all the programs of my Python Tutorials, which I shared on Twitter. 
 
 ![image](https://user-images.githubusercontent.com/5618143/191779394-0b7eb060-9351-4a73-bc3c-a3a475f4c5e6.png)
+
+## Free Courses
+- [Data Science Courses by IBM](https://github.com/afizs/ml/blob/master/free-courses/README.md)

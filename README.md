@@ -9,3 +9,6 @@
 
 ## Free Courses
 - [Data Science Courses by IBM](https://github.com/afizs/ml/blob/master/free-courses/README.md)
+
+## Data Visualization in Python 
+- [Charts with matplotlib](https://github.com/afizs/ml-notes/tree/main/charts)

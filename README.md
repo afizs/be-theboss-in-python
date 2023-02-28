@@ -8,7 +8,8 @@
 ## Contents 
 - [The 100 Programs](/100-programs)
 - [Image Processing in Python](/image-processing)
-  - [Edge Detection](/image-processing/
+  - [Edge Detection](/image-processing/edge_detection.ipynb)
+  - [Face Detection](/image-processing/image_processing.ipynb)
 
 
 ## Free Courses

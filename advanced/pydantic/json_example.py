@@ -12,7 +12,4 @@ class User(BaseModel):
         return value
 
 user = User(name='Afiz', email='afiz@gmail.com', account_id=1234)
-print(user)
-
-user1 = User(name='Afiz', email='afiz@gmail.com', account_id=-10)
-print(user1)
+print(user.json())
